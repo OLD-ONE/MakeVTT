@@ -1,0 +1,7 @@
+WEBVTT - Japanese
+
+1
+00:00:05.000 --> 00:00:30.000 line:auto position:2% size:96% align:left
+これは日本語の Wev-VTT.
+動画ファイル名が dolbycanyon.mp4 で自動的に作成される日本語のVTTファイル名は dolbycanyon_jp.mp4 となるように設定を行っています。
+VTTファイル名は設定でカスタマイズできます。
